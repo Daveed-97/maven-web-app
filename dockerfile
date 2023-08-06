@@ -6,5 +6,12 @@ MAINTAINER daveed<dveedpeter97@gmail.com>
 
 EXPOSE 8080
 
+CMD 
 
+ENTRYPOINT [ "java", "-jar" ]
 
+VOLUME
+
+ARG
+
+RUN
